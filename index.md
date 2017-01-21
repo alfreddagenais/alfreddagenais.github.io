@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## PHP / JavaScript / HTML5 / CSS3 / Web Mobile
 
-You can use the [editor on GitHub](https://github.com/alfreddagenais/alfreddagenais.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Développer et programmer des produits, du matériel et des logiciels axé Web. Construire, améliorer ou modifier selon les demandes soumises ou les besoins exprimés. Donnent vie aux idées complexes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Je possède 12 ans d’expérience dans le milieu du Web et ce, dans divers domaines, années durant lesquelles j’ai démontré mon esprit d’initiative,mon sens de l’organisation et mon intégrité professionnelle. J’entretiens d’excellentes relations avec la clientèle, étant courtois et démontrant beaucoup de diplomatie. J’ai une grande facilité d’apprentissage. Je suis dynamique et démontre une très grande polyvalence dans mon travail.
 
-### Markdown
+Ma force principale est celle du développement d’application web. Je maîtrise un bon nombre de logiciels et de connaissance. D’ailleurs, connaissant bon nombre d’autres domaines, notamment le graphisme, la mise en page et le « web-marketing », je conçois des applications facile d’utilisation. De plus, j’ai une bonne imagination ce qui me permet de résoudre sans peine d’important problèmes reliés aux exigences demandé.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Personnel
 
-```markdown
-Syntax highlighted code block
+- Nom : Alfred Dagenais
+- Anniversaire : 544710960
+- Relations : Orienté service
+- Nationalité : Geek
+- Langues : Français, Anglais, et espagnol à mes heures
 
-# Header 1
-## Header 2
-### Header 3
+### Outils maîtrisés
 
-- Bulleted
-- List
+- XML / HTML / CSS
+- JavaScript / AJAX / jQuery
+- PHP / MySQL
+- Frameworks : Codeigniter, CakePHP,
+- Kohana, Symfony2, LESS, symfony,
+- Twitter Bootstrap, Modernizr
+- CMS : WordPress, SPIP, Joomla
+- Sublime Text, Eclipse, vim
+- Linux Ubuntu, Debian,
+- Atlassian Jira, Atlassian Confluence
 
-1. Numbered
-2. List
+### Outils Connus
 
-**Bold** and _Italic_ and `Code` text
+- Frameworks: Laravel, AngularJS,
+- Zend Framework
+- CMS: Drupal, MODx, TYPO3
+- Microsoft Access, Microsoft SharePoint
+- Apache Solr
+- IBM Websphere Datapower
+- Puppet, Vagrant
 
-[Link](url) and ![Image](src)
-```
+### Champs de compétences
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Ergonomie / Maquettage / Intégration
+- Administration de base de données
+- Développement d’application Client/Server
+- Méthodologie : (OO, MVC)
+- Développement d’interfaces riches
+- Graphisme, Impression
+- Configuration de serveur Web
+- Outils de gestion de contenu 
 
-### Jekyll Themes
+### Habiletés acquises
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alfreddagenais/alfreddagenais.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Souci du travail bien fait, et ce, dans un court délai;
+- Recherche des meilleures technologies, surtout pour de grandes applications Web;
+- Connaissance d’un grand nombre de logiciel;
+- Méthode d’analyse de problèmes structurés;
+- Analyse des besoins d’un client;
+- Disponibilité, patience, aide et écoute;
+- Suivi des clients suite aux travaux effectués;
+- Formateur sur des logiciels CMS.
 
-### Support or Contact
+### Contact ou support
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Facebook](https://www.facebook.com/alfreddagenais)
+- [Facebook Fan Page](https://www.facebook.com/AlfredDagenaisWeb/)
+- [Twitter](https://twitter.com/AlfredDagenais)
+- [LinkedIn](https://www.linkedin.com/in/alfreddagenais/)

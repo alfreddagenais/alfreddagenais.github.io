@@ -1,4 +1,4 @@
-# alfreddagenais.github.io/
+# alfreddagenais.github.io
 
  [![Support me on Patreon][badge_patreon]][patreon] [![Buy Me a Coffee][badge_buymeacoffee]][buymeacoffee] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/alfreddagenais/ama)
 

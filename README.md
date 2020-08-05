@@ -29,7 +29,7 @@ Thanks! :heart:
 MIT © [Alfred Dagenais][website]
 
 [badge_patreon]: https://alfreddagenais.github.io/badges/patreon.svg
-[badge_buymeacoffee]: https://alfreddagenais.github.io/badges/buymeacoffee.svg
+[badge_buymeacoffee]: https://alfreddagenais.github.io/badges/buymeacoffee-sm.svg
 [badge_amazon]: https://alfreddagenais.github.io/badges/amazon.svg
 [badge_paypal]: https://alfreddagenais.github.io/badges/paypal.svg
 [badge_paypal_donate]: https://alfreddagenais.github.io/badges/paypal_donate.svg
